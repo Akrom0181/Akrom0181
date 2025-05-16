@@ -1,48 +1,32 @@
-<h1 align="center">👋 Hi, I'm Akromjon Otaboyev</h1>
-
+<h1 align="center">Akromjon Otaboyev</h1>
 <p align="center">
-  A passionate <strong>Golang Back-end Developer</strong> from Uzbekistan 🇺🇿 <br>
-  Skilled in building APIs and microservices — powered by Go, PostgreSQL, and Docker ⚙️🐳
+  <strong>Backend Software Engineer | Go Specialist</strong><br>
+  Based in Uzbekistan
 </p>
 
----
+Professional Summary
+Experienced backend developer with expertise in designing and implementing scalable, high-performance systems using Go. Focused on building robust microservices architecture and RESTful APIs with industry-standard practices.
+Technical Expertise
 
-### 🛠️ Tech Stack
+Languages: Go, SQL
+Databases: PostgreSQL, Redis
+Infrastructure: Docker, Linux
+Architecture: Microservices, API Design, Service-Oriented Architecture
 
-![Go](https://img.shields.io/badge/-Go-000?&logo=go)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=postgresql)
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=docker)
-![Redis](https://img.shields.io/badge/-Redis-000?&logo=redis)
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=linux)
+Notable Projects
 
----
+Enterprise-Grade API Framework - Developed a high-performance REST API framework that handles 1000+ requests per second with microsecond latency
+AI Integration Services - Created backend systems integrating GPT and Gemini technologies for intelligent data processing
 
-### 📬 Contact Me
+Professional Approach
+I approach software development with a focus on code quality, performance optimization, and scalable architecture. My commitment to best practices ensures reliable, maintainable systems that deliver measurable business value.
+Contact Information
 
-[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/AkromjonAtabayev)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:akromjonotaboyev@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/akromjon-otaboyev-04149b341/)
-[![Instagram](https://img.shields.io/badge/-Instagram-purple?style=flat&logo=instagram)](https://instagram.com/akromataboyev)
+Email: akromjonotaboyev@gmail.com
+LinkedIn: Akromjon Otaboyev
+Telegram: @AkromjonAtabayev
 
----
-
-### 📌 Pinned Projects
-
-Here are some of my top public projects:
-
-- 🚀 **High-performance APIs in Go**
-- 🧠 **AI-integrated tools (GPT, Gemini)**
-
-> ⚡ Always building, always learning!
-
----
-
-### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akrom0181&layout=compact&theme=radical" width="300">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akrom0181&layout=compact&theme=github_dark" width="350">
 </p>
-
----
-
-*Thanks for visiting my profile! ⭐️ If you like my work, feel free to follow or connect with me!*
