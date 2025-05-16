@@ -40,7 +40,6 @@ Here are some of my top public projects:
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akrom0181&show_icons=true&theme=radical" width="400">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akrom0181&layout=compact&theme=radical" width="300">
 </p>
 
