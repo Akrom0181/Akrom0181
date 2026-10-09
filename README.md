@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6082B6&center=true&vCenter=true&width=440&height=45&lines=Backend+Engineer;Go+Enthusiast;API+Architect" alt="Typing SVG" />
 </p>
 <p align="center">
-  Crafting elegant, high-performance systems with Go, PostgreSQL, and microservices architecture.
+  Crafting high-performance systems with Go, PostgreSQL, Redis, RabbitMQ, and microservices architecture.
 </p>
 <hr>
 💻 Technical Expertise
